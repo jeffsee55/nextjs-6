@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "pnpm -v && node -v && next build",
     "start": "next start",
     "lint": "next lint"
   },
