@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "build": {
+    "env": {
+      "FORCE_BUILD_IN_REGION": "lhr1",
+      "VERCEL_BUILD_CONTAINER_VERSION": "pr-30223-8a91989db0bc7f2007256d766959d746d6751c67"
+    }
+  }
+}
